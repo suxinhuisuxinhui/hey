@@ -18,3 +18,4 @@ set "line=!line!!random:~-1! "
 )
 set /p=!line!<nul
 )
+lsdkht 
